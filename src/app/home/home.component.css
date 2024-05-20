@@ -1,0 +1,32 @@
+
+    .form-container {
+      background-color: #828282;
+      padding: 20px;
+      border-radius: 10px;
+      width: 300px;
+      margin: auto;
+      margin-top: 50px;
+    }
+  
+    .form-control {
+      margin-bottom: 10px;
+    }
+  
+    .submit-button {
+      background-color: #2196f3;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+  
+    .submit-button:hover {
+      background-color: #0d47a1; 
+    }
+  
+    .messages-container {
+      margin-top: 10px;
+    }
+
+  
